@@ -1,1 +1,1 @@
-//indes.js
+//index.js
