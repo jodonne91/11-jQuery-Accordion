@@ -1,0 +1,46 @@
+.section {
+	display: inline-block;
+	width: 390px;
+	font-family: Avenir;
+	border: 2px solid #00B4C3;
+	position: relative;
+	left: 0px;
+	background-color: white;
+}
+
+.hidden {
+	display: none;
+}
+
+#firstBody {
+}
+
+#secondBody{
+}
+
+#thirdBody{
+}
+
+
+.cardHeading {
+	background-color: #00C6D6;
+	color: white;
+	height: 40px;
+}
+
+.cardBody {
+	color: #766C72;
+	transition: all 2s;
+}
+
+p {
+	font-size: 13px;
+}
+
+h3 {
+	margin-top: 0;
+	margin-left: 40px;
+	position: relative;
+	top: 6px;
+}
+
